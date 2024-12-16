@@ -91,7 +91,7 @@ body {
 }
 
 .home .foto.sombra-interna {
-    background: linear-gradient(to right, red, rgb(55, 249, 55));
+    background: linear-gradient(to right, rgb(53, 53, 255), rgb(55, 249, 55));
     background-size: 180% 180%;
     animation: gradient-animation 5s ease infinite;
 }
