@@ -1,20 +1,19 @@
-*{
+* {
     margin: 0;
     padding: 0;
-    border: none;
-    outline: none;
     box-sizing: border-box;
+    font-weight: 500;
 }
 
-a{
+a {
+    color: #fff;
     text-decoration: none;
+}
+
+a:active {
     color: #fff;
 }
 
-ul{
+ul {
     list-style: none;
-}
-
-img{
-    max-width: 100%;
 }
